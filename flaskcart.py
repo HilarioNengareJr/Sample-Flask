@@ -13,7 +13,7 @@ app = Flask(__name__)
 Below are the configurations involved with the flask-application:
    * A secret key for the application's security.
    * Database configuration and mapping.
-   * An SqlAlchemy class instance.
+   * An SqlAlchemy class instance/object
    * Migration command. 
 """
 
